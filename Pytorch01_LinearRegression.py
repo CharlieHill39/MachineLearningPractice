@@ -45,3 +45,5 @@ def run():
           format(num_iterations, b, w, compute_totalerro(b, w, points))
           )
 
+ if __name__ == "__main__":
+    run()
